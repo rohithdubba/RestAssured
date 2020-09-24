@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5642" started-at="2020-09-23T21:11:57Z" finished-at="2020-09-23T21:12:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5642" started-at="2020-09-23T21:11:57Z" finished-at="2020-09-23T21:12:02Z">
+      <class name="Testcases.TC006_GET_Request_Extracting_values_of_each_NodeinJson">
+        <test-method status="PASS" signature="getweatherdetails()[pri:0, instance:Testcases.TC006_GET_Request_Extracting_values_of_each_NodeinJson@7085bdee]" name="getweatherdetails" duration-ms="5542" started-at="2020-09-23T17:11:57Z" finished-at="2020-09-23T17:12:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getweatherdetails -->
+      </class> <!-- Testcases.TC006_GET_Request_Extracting_values_of_each_NodeinJson -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
