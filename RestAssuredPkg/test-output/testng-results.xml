@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="5642" started-at="2020-09-23T21:11:57Z" finished-at="2020-09-23T21:12:02Z">
+  <suite name="Default suite" duration-ms="8009" started-at="2020-09-24T17:32:17Z" finished-at="2020-09-24T17:32:25Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="5642" started-at="2020-09-23T21:11:57Z" finished-at="2020-09-23T21:12:02Z">
-      <class name="Testcases.TC006_GET_Request_Extracting_values_of_each_NodeinJson">
-        <test-method status="PASS" signature="getweatherdetails()[pri:0, instance:Testcases.TC006_GET_Request_Extracting_values_of_each_NodeinJson@7085bdee]" name="getweatherdetails" duration-ms="5542" started-at="2020-09-23T17:11:57Z" finished-at="2020-09-23T17:12:02Z">
+    <test name="Default test" duration-ms="8009" started-at="2020-09-24T17:32:17Z" finished-at="2020-09-24T17:32:25Z">
+      <class name="Testcases.TC002_POST_Request">
+        <test-method status="PASS" signature="add_users()[pri:0, instance:Testcases.TC002_POST_Request@7085bdee]" name="add_users" duration-ms="7932" started-at="2020-09-24T13:32:17Z" finished-at="2020-09-24T13:32:25Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getweatherdetails -->
-      </class> <!-- Testcases.TC006_GET_Request_Extracting_values_of_each_NodeinJson -->
+        </test-method> <!-- add_users -->
+      </class> <!-- Testcases.TC002_POST_Request -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
